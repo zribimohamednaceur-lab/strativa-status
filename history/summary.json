@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.strativa.uk.ico",
     "slug": "database-file-storage-and-background-jobs",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "61.61%",
+    "uptimeDay": "61.61%",
+    "uptimeWeek": "61.61%",
+    "uptimeMonth": "61.61%",
+    "uptimeYear": "61.61%",
     "time": 631,
     "timeDay": 631,
     "timeWeek": 631,
     "timeMonth": 631,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-11": 0
+    }
   },
   {
     "name": "Website",
