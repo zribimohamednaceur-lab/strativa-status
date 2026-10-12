@@ -22,19 +22,20 @@
     "url": "https://app.strativa.uk/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.strativa.uk.ico",
     "slug": "database-file-storage-and-background-jobs",
-    "status": "down",
-    "uptime": "89.48%",
-    "uptimeDay": "89.48%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "89.48%",
-    "time": 767,
-    "timeDay": 767,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767,
+    "status": "up",
+    "uptime": "87.75%",
+    "uptimeDay": "87.75%",
+    "uptimeWeek": "87.75%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "87.75%",
+    "time": 897,
+    "timeDay": 897,
+    "timeWeek": 897,
+    "timeMonth": 897,
+    "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-10-11": 113
+      "2026-10-11": 113,
+      "2026-10-12": 21
     }
   },
   {
