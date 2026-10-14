@@ -1,7 +1,7 @@
 url: https://app.strativa.uk/api/health
-status: down
-code: 503
-responseTime: 451
-lastUpdated: 2026-10-14T22:27:24.310Z
+status: up
+code: 200
+responseTime: 1174
+lastUpdated: 2026-10-14T22:57:52.574Z
 startTime: 2026-10-11T13:47:18.694Z
 generator: Upptime <https://github.com/upptime/upptime>
