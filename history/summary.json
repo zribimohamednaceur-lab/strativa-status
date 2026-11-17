@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3100,
-    "timeDay": 0,
-    "timeWeek": 3580,
-    "timeMonth": 3241,
+    "timeDay": 3128,
+    "timeWeek": 3442,
+    "timeMonth": 3237,
     "timeYear": 3100,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://app.strativa.uk/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.strativa.uk.ico",
     "slug": "database-file-storage-and-background-jobs",
-    "status": "down",
-    "uptime": "53.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "53.00%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "49.79%",
-    "uptimeYear": "53.13%",
-    "time": 1018,
-    "timeDay": 487,
-    "timeWeek": 1325,
-    "timeMonth": 1032,
-    "timeYear": 1018,
+    "uptimeYear": "53.00%",
+    "time": 1021,
+    "timeDay": 903,
+    "timeWeek": 1293,
+    "timeMonth": 1039,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2026-10-11": 113,
       "2026-10-12": 88,
@@ -57,7 +57,8 @@
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
-      "2026-10-23": 716
+      "2026-10-23": 716,
+      "2026-11-17": 129
     }
   },
   {
@@ -71,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 0,
-    "timeWeek": 145,
-    "timeMonth": 164,
-    "timeYear": 179,
+    "time": 177,
+    "timeDay": 109,
+    "timeWeek": 136,
+    "timeMonth": 163,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   }
 ]
